@@ -3,3 +3,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+:root {
+  font-size: 62.5%;
+}
+
+body{
+  font-family: Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #333;
+  margin: 0;
+}
