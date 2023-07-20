@@ -8,11 +8,23 @@
   font-size: 62.5%;
 }
 
-body{
+body {
   font-family: Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
   text-align: center;
   font-size: 1.6rem;
   line-height: 1.5;
   color: #333;
   margin: 0;
+}
+
+#main {
+  margin: 3rem 8px;
+  padding: 1.5rem;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#title {
+  font-size: 4rem;
+  margin-bottom: 0;
 }
